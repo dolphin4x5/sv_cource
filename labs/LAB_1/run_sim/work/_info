@@ -1,0 +1,59 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\VPK_18\Alekseev\Lab_1\run_sim
+vLab_1
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+I;aP:XhaW<4V`^=>nIz7aP3
+V<lZOVg=NC^0:UbZW>QFj72
+S1
+w1772806618
+8../lab1/Lab_1.sv
+F../lab1/Lab_1.sv
+L0 1
+Z3 OV;L;6.5b;42
+r1
+31
+o-O0
+n@lab_1
+!s100 @G?PXbE0Oz5mPTzV`3<[e0
+!s85 0
+!s101 -O0
+vLAB_1_mux_demux
+R1
+R2
+INA;M72feEg4oZmkYN0OVo3
+VIk6F7ci7j4aoF6nVj4VU^2
+S1
+w1772811016
+8../lab1/LAB_1_mux_demux.sv
+F../lab1/LAB_1_mux_demux.sv
+L0 1
+R3
+r1
+31
+o-O0
+n@l@a@b_1_mux_demux
+!s100 JHb7JA:13lNeOI68DZQYg1
+!s85 0
+!s101 -O0
+vLAB_1_mux_demux_testbench
+R1
+R2
+!s100 oVV9kR6=`WZznh?RYzNf83
+IdCYT9zS5LcmhCTEUKfFGj3
+V8DU2WFj:15z4cQ1Bk8hO02
+S1
+w1772814300
+8../lab1/LAB_1_mux_demux_testbench.sv
+F../lab1/LAB_1_mux_demux_testbench.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@l@a@b_1_mux_demux_testbench

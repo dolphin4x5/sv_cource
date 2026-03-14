@@ -1,0 +1,39 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\work\Kosharnyi_Parasotskii\run_sim
+vpractice1
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Il16Ik@Z<LkCP28a@lJO7;3
+V4ac5PfbC5Q:J]YJh2e2]i2
+S1
+w1772202179
+8../Lab1/practice1.sv
+F../Lab1/practice1.sv
+L0 1
+Z3 OV;L;6.5b;42
+r1
+31
+o-O0
+!s100 hQ85edCBGzCQXHU]N69Ee1
+!s85 0
+!s101 -O0
+vpractice1_testbench
+R1
+R2
+!s100 6=7:O:4ZcH2Y4X[m7of[01
+I1lfTS4fhYci>PRdiEj3EF1
+VV>QmkUQE6Q5MO9LM<i_F00
+S1
+w1772202369
+8../Lab1/practice1_testbench.sv
+F../Lab1/practice1_testbench.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s101 -O0
+o-O0

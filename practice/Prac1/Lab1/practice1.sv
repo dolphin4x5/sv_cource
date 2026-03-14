@@ -1,0 +1,21 @@
+module practice1(input logic [3:0] d0, d1,d2,d3 ,
+            input logic [1:0] s,
+            output logic [3:0] y);
+    //assign y = (~s[0] & ~s[1]) ? d0 : (~s[0] & s[1]) ? d1 : (s[0] & ~s[1]) ? d2 : d3; 
+	always_comb
+	case(s)
+		2'd0: y = d0;
+		2'd1: y = d1;
+		2'd2: y = d2;
+		2'd3: y = d3;
+	endcase
+/*
+	logic [3:0] d [0:2];
+	assign d [0] = d0;
+	assign d [1] = d1;
+	assign d [2] = d2;
+	assign d [3] = d3;
+	
+	assign y = d [s];
+*/
+endmodule
